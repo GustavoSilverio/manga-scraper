@@ -4,7 +4,7 @@ Meu primeiro projeto de automação. Como funciona? Basicamente você precisa pa
 
 ## Pré-requisitos
 
-- Python 3.11 ou superior instalado no seu sistema.
+- Python instalado no seu sistema.
 - Pip instalado no sistema.
 - Acesso ao terminal (cmd ou PowerShell).
 - O projeto já baixado e dentro de um diretório na sua máquina.
