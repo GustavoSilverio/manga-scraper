@@ -4,11 +4,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
-# Works just with mangas from https://mangaschan.net. Example:
+# Works just with mangás from https://mangaschan.net Example:
 # https://mangaschan.net/04092020/quanqiu-jinru-da-hongshui-shidai-evolution-in-the-flood-capitulo-1/
-print("Works just with mangas from https://mangaschan.net")
+print("Works just with mangás from https://mangaschan.net")
 print("Example: https://mangaschan.net/04092020/quanqiu-jinru-da-hongshui-shidai-evolution-in-the-flood-capitulo-1/")
-url_first_chapter = input("Url of the FIRST chapter of the manga:").strip()
+url_first_chapter = input("Url of the FIRST chapter of the mangá:").strip()
 
 chapters_list = []
 pages_list = []
