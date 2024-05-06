@@ -1,3 +1,5 @@
+Meu primeiro projeto de automação. Como funciona? Basicamente você precisa passar uma url do primeiro capítulo de um mangá do site mangaschan.net e o scraper vai pegar todas as imagens de todas as páginas de todos os capítulos e disponibilizar em um arquivo JSON no mesmo diretório que está executando o script.
+
 # Criando o ambiente virtual e Executando o script Python
 
 ## Pré-requisitos
